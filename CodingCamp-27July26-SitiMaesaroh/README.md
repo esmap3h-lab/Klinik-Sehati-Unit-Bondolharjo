@@ -1,42 +1,101 @@
-# CodingCamp-27July26-SitiMaesaroh
-Coding Camp Software Engineering
+# Klinik-Sehati-Unit-Bondolharjo
 
-Technical Constraints
-TC-1: Technology Stack
-HTML for structure
-CSS for styling
-Vanilla JavaScript (no frameworks like React, Vue, etc.)
-No backend server required
+Portal layanan sertifikasi halal yang membantu pelaku usaha memperoleh sertifikat halal secara mandiri, memantau status pengajuan, serta menyediakan akses pendaftaran Pendamping Proses Produk Halal (PPH).
 
+<br>
 
-TC-2: Data Storage
-Use browser Local Storage API
-All data stored client-side only
+## Project Overview
 
+Klinik Sehati Unit Bondolharjo merupakan platform digital yang dirancang untuk mendukung pelaku usaha dan calon Pendamping Proses Produk Halal (PPH) melalui layanan informasi, pendampingan, serta pemantauan status pengajuan sertifikat halal.
 
-TC-3: Browser Compatibility
-Must work in modern browsers (Chrome, Firefox, Edge, Safari)
-Can be used as standalone web app or browser extension
+Fitur utama yang tersedia:
 
+- Informasi sertifikasi halal
+- Pendaftaran sertifikat halal mandiri
+- Pendaftaran Pendamping Proses Produk Halal (PPH)
+- Pemantauan status pengajuan melalui Nomor Registrasi
+- Kontak layanan pengaduan dan pendampingan
+- Dark Mode
+- Tampilan responsif
 
-Non-Functional Requirements
-NFR-1: Simplicity
-Clean, minimal interface
-Easy to understand and use
-No complex setup required
-No test setup required
+<br>
 
+## Technical Constraints
 
-NFR-2: Performance
-Fast load time
-Responsive UI interactions
-No noticeable lag when updating data
+### TC-1: Technology Stack
 
+- HTML5 for structure
+- CSS3 for styling
+- Vanilla JavaScript for interactivity
+- GitHub Pages for deployment
+- No backend server required (current version)
 
-NFR-3: Visual Design
-User-friendly aesthetic
-Clear visual hierarchy
-Readable typography
+<br>
 
+### TC-2: Data Storage
 
+Current version:
 
+- Browser Local Storage API
+- Client-side data only
+
+Future development:
+
+- Database integration
+- Registration Number management
+- Business data management
+- User dashboard
+
+<br>
+
+### TC-3: Browser Compatibility
+
+Compatible with:
+
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+- Safari
+
+Responsive for desktop and mobile devices.
+
+<br>
+
+## Non-Functional Requirements
+
+### NFR-1: Simplicity
+
+- User-friendly interface
+- Easy navigation
+- Clear information hierarchy
+- Accessible for UMKM users
+
+<br>
+
+### NFR-2: Performance
+
+- Fast loading time
+- Responsive interactions
+- Lightweight front-end implementation
+
+<br>
+
+### NFR-3: Visual Design
+
+- Professional appearance
+- Halal service branding
+- Consistent color palette
+- Readable typography
+
+<br>
+
+## Future Development Roadmap
+
+### Version 2.0
+
+- Business Registration Database
+- Registration Number Verification
+- Admin Dashboard
+- Application Tracking System
+
+###
